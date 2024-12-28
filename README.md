@@ -2,49 +2,13 @@
 
 ## Project Description
 
-The Diary Web Application is a web-based platform built using ASP.NET Core MVC and Entity Framework Core, designed to allow users to create, manage, and share their personal diary entries. The application provides a user-friendly interface for writing and organizing diary entries, with features such as user authentication, CRUD operations for diary entries, and a responsive design that works on various devices.
+The Diary Web Application is a web-based platform using ASP.NET Core MVC and Entity Framework Core, enabling users to create, manage, and share diary entries. It features user authentication, CRUD operations, and a responsive design for various devices.
 
 ## Technologies Used
 
 - **Languages**: C#, HTML, CSS, JavaScript
 - **Frameworks**: ASP.NET Core MVC, Entity Framework Core
 - **Database**: SQL Server
-
-## Project Structure
-
-DiaryWebApp/
-│
-├── Controllers/ # Contains the MVC controllers
-│ ├── DiaryController.cs
-│ └── HomeController.cs
-│
-├── Models/ # Contains the data models
-│ ├── DiaryEntry.cs
-│ └── ErrorViewModel.cs
-│
-├── Views/ # Contains the Razor views
-│ ├── Diary/
-│ │ ├── Create.cshtml
-│ │ ├── Delete.cshtml
-│ │ ├── Edit.cshtml
-│ │ └── Index.cshtml
-│ ├── Home/
-│ │ ├── About.cshtml
-│ │ └── Index.cshtml
-│ └── Shared/
-│ ├── Layout.cshtml
-│ ├── ValidationScriptsPartial.cshtml
-│ └── Error.cshtml
-│
-├── Data/ # Contains the database context and migrations
-│ └── ApplicationDbContext.cs
-│
-├── wwwroot/ # Contains static files (CSS, JS, images)
-│ ├── css/
-│ └── js/
-│
-├── appsettings.json # Configuration settings
-└── Startup.cs # Application startup configuration
 
 ## Getting Started
 
