@@ -17,13 +17,13 @@ To get started with the Diary Web Application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Khadalicioso/diary_webapp.git
+   git clone https://github.com/Khadalicioso/diary-ni-khadalicioso.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd diary_webapp
+   cd diary-ni-khadalicioso
    ```
 
 3. Restore the NuGet packages:
@@ -49,10 +49,6 @@ To get started with the Diary Web Application, follow these steps:
 - Create, read, update, and delete diary entries
 - Responsive design for mobile and desktop
 - Secure storage of user data
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
 
