@@ -10,39 +10,6 @@ The Diary Web Application is a web-based platform using ASP.NET Core MVC and Ent
 - **Frameworks**: ASP.NET Core MVC, Entity Framework Core
 - **Database**: SQL Server
 
-## Getting Started
-
-To get started with the Diary Web Application, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Khadalicioso/diary-ni-khadalicioso.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd diary-ni-khadalicioso
-   ```
-
-3. Restore the NuGet packages:
-
-   ```bash
-   dotnet restore
-   ```
-
-4. Update the database:
-
-   ```bash
-   dotnet ef database update
-   ```
-
-5. Run the application:
-   ```bash
-   dotnet run
-   ```
-
 ## Features
 
 - User authentication and authorization
